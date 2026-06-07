@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Data Analytics | Data Engineering
-
+<br>
 Profissional de Tecnologia com experiência em Infraestrutura, Cloud e Automação, construindo soluções baseadas em dados utilizando Python, SQL, Power BI e Cloud Computing.
 
 </h3>

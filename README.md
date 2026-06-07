@@ -1,7 +1,10 @@
 <h1 align="center">Olá 👋, eu sou Paulo Henrique Cabral</h1>
 
 <h3 align="center">
-Profissional de Tecnologia em transição para Análise de Dados e Engenharia de Dados
+Data Analytics | Data Engineering
+
+Profissional de Tecnologia com experiência em Infraestrutura, Cloud e Automação, construindo soluções baseadas em dados utilizando Python, SQL, Power BI e Cloud Computing.
+
 </h3>
 
 ---
